@@ -1,4 +1,4 @@
-Laboratory Activity #1 – Java Programming Review
+# Laboratory Activity #1 – Java Programming Review
 ________________________________________________________________________________________________________________________________
 Description: A review of essential Java programming concepts, including basic syntax, input and output operations, variables, and control structures.
 
