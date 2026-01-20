@@ -1,11 +1,10 @@
-Laboratory Activity #1 – Java Programming Review
+Laboratory Activity #2 – Working with Java Classes
 _______________________________________________________________________________________________________________________________
-Description: A review of essential Java programming concepts, including basic syntax, input and output operations, variables, and control structures.
+Description: This activity focuses on creating and using Java classes, including constructors, methods, and object instantiation.
+• Class and object creation
 
-• Arrays
+• Constructors
 
-• Loops and conditional statements
+• Instance variables and methods
 
-• Methods and code organization
-
-• Basic input and output
+• Object-oriented programming basics
