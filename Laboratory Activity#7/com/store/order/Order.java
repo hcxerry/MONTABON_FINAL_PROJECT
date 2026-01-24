@@ -18,7 +18,7 @@ public abstract class Order {
     // Concrete method
     public String getOrderSummary() {
         return "Order ID: " + orderId +
-               ", Amount: " + amount +
+               ", Amount: ₱" + amount +
                ", Status: " + status;
     }
 
@@ -40,7 +40,7 @@ public abstract class Order {
         if (amount >= 0) {
             this.amount = amount;
         } else {
-            System.out.println("Invalid amount. Cannot be negative.");
+            System.out.println("This amount is invalid. It cannot be negative.");
         }
     }
 
